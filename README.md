@@ -2,11 +2,11 @@
 ### About the Course
 The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
 
-**Programming Challenge**
+**[Programming Challenge](https://github.com/frranklin/Algorithmic-Toolbox-UCSD/tree/main/Week%201)**
   1. Sum of Two Digits
   2. Maximum Pairwise Product
  
-**Algorithmic Warm-up**
+**[Algorithmic Warm-up](https://github.com/frranklin/Algorithmic-Toolbox-UCSD/tree/main/Week%202)**
   1. Fibonacci Number
   2. Last Digit of a Large Fibonacci Number
   3. Greatest Common Diviso
@@ -16,7 +16,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
   7. Last Digit of the Sum of Fibonacci Numbers Again
   8. Last Digit of the Sum of Squares of Fibonacci Numbers
 
-**Greedy Algorithms**
+**[Greedy Algorithms](https://github.com/frranklin/Algorithmic-Toolbox-UCSD/tree/main/Week%203)**
   1. Money Change
   2. Maximum Value of the Loot
   3. Car Fueling
@@ -25,7 +25,7 @@ The course covers basic algorithmic techniques and ideas for computational probl
   6. Maximum Number of Prizes
   7. Maximum Salary
 
-**Divide and Conquer**
+**[Divide and Conquer](https://github.com/frranklin/Algorithmic-Toolbox-UCSD/tree/main/Week%204)**
   1. Binary Search
   2. Majority Element
   3. Improving Quick Sort
@@ -33,14 +33,14 @@ The course covers basic algorithmic techniques and ideas for computational probl
   5. Organizing a Lottery
   6. Closest Points
 
-**Dynamic Programming 1**
-  1. [Money Change Again]
-  2. [Primitive Calculator]
-  3. [Edit Distance]
-  4. [Longest Common Subsequence of Two Sequences]
-  5. [Longest Common Subsequence of Three Sequences]
+**[Dynamic Programming 1](https://github.com/frranklin/Algorithmic-Toolbox-UCSD/tree/main/Week%205)**
+  1. Money Change Again
+  2. Primitive Calculator
+  3. Edit Distance
+  4. Longest Common Subsequence of Two Sequences
+  5. Longest Common Subsequence of Three Sequences
 
-**Dynamic Programming 2**
-  1. [Maximum Amount of Gold]
-  2. [Partitioning Souvenirs]
-  3. [Maximum Value of an Arithmetic Expression]
+**[Dynamic Programming 2](https://github.com/frranklin/Algorithmic-Toolbox-UCSD/tree/main/Week%206)**
+  1. Maximum Amount of Gold
+  2. Partitioning Souvenirs
+  3. Maximum Value of an Arithmetic Expression
